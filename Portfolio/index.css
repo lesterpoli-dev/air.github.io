@@ -33,6 +33,7 @@ nav ul li a{
 nav ul li a:hover{
     text-decoration: none;
     color: red;
+    font-size:40px;
     font-family: 'Play', sans-serif;
 }
 /*End of header*/
